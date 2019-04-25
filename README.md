@@ -23,7 +23,7 @@ All session output is saved in *results.txt*. This file will be overwritten if a
 | Variable Definition   | *(define variable expression)*                    | *(define x 10)*                       |   
 | Function Call         | *(function args ...)*                             | *(sqrt (+ 8 8)) -> 4*                 |
 | Variable Assignment   | *(set! variable expression)*                      | *(set! x (+ 5 6))*                    |
-| Function Definition   | *(defun function_name (variable ...) expression)* | *(defun double (x) (x + x))*          |
+| Function Definition   | *(defun function_name (variable ...) expression)* | *(defun double (x) (+ x x))*          |
 
 ### Predefined Operations
 
