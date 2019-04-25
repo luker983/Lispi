@@ -1,6 +1,5 @@
 # Lispi - A Lisp Interpreter
-#### Raymond Rindels
-#### April 2019
+#### Luke Rindels, April 2019
 
 ## Compile
 In the same directory as *Makefile*, *lispi.cc*, *lispi.h*, and *builtin.cc*, run `make` to compile.
